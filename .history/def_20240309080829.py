@@ -68,20 +68,6 @@ def main():
     hello()
 
 def hello():
-    print("hello,", name)
+    print("hello,", to)
 
-main()    # this return the error message  
-#  python def.py
-# What's your name? betty
-# Traceback (most recent call last):
-#   File "C:\Cancode-practice\My Practice 3-8-2024\def.py", line 73, in <module>
-#     main()    
-#     ^^^^^^
-#   File "C:\Cancode-practice\My Practice 3-8-2024\def.py", line 68, in main
-#     hello()
-#   File "C:\Cancode-practice\My Practice 3-8-2024\def.py", line 71, in hello
-#     print("hello,", name)
-#                     ^^^^
-# NameError: name 'name' is not defined
-
-# Let's fix it, to see the fix, go to square.py file
+main()    

@@ -83,5 +83,3 @@ main()    # this return the error message
 #     print("hello,", name)
 #                     ^^^^
 # NameError: name 'name' is not defined
-
-# Let's fix it, to see the fix, go to square.py file
