@@ -29,4 +29,3 @@ def square(n):
 
 main()
 
-# Now let's talk about conditionals, so go to conditionals folder

@@ -1,0 +1,9 @@
+# These are built-in syntaxes
+
+>  greater than
+>= greater than or equal to
+< less than
+
+<=
+==
+!=

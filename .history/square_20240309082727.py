@@ -28,5 +28,3 @@ def square(n):
     return pow(n, 2)
 
 main()
-
-# Now let's talk about conditionals, so go to conditionals folder

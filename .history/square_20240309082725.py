@@ -25,8 +25,6 @@ def main():
     print("x square is", square(x))
 
 def square(n):
-    return pow(n, 2)
+    return pow(n, )
 
 main()
-
-# Now let's talk about conditionals, so go to conditionals folder

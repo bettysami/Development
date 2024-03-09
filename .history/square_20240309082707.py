@@ -9,14 +9,14 @@
 
 # let's use the function **
 
-# def main():
-#     x = int(input("What's x? "))
-#     print("x square is", square(x))
+def main():
+    x = int(input("What's x? "))
+    print("x square is", square(x))
 
-# def square(n):
-#     return n ** n
+def square(n):
+    return n ** n
 
-# main()
+main()
 
 # let's use the function pow
 
@@ -25,8 +25,6 @@ def main():
     print("x square is", square(x))
 
 def square(n):
-    return pow(n, 2)
+    return n ** n
 
 main()
-
-# Now let's talk about conditionals, so go to conditionals folder
