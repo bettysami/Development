@@ -8,7 +8,4 @@
 x = float(input("what's x? "))
 y = float(input("what's y? "))
 z = round(x + y)
-print(f"{z:,}")
-
-
-# let's do division instead , so go check division.py file
+print(fz)
