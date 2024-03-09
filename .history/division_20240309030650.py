@@ -28,4 +28,3 @@ y = float(input("what's y? "))
 z = (x / y)
 print(f"{z:.2f}")
 
-# let's introduce the define function, so check the def.py file
