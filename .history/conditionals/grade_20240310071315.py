@@ -42,4 +42,4 @@ else:
      print("Grade: F")          
 
 
-# Let's study a new concept called parity, go to parity.py file     
+# Let's study a new concept called paity, go to     
