@@ -33,14 +33,14 @@ x = int(input("what's x? "))
 y = int(input("What's y? "))
 
 # let's change the values of these variables
-if x == y:
-    print("x is equal to y")
+if x != y:
+    print("x is not equal to y")
+
+# elif x > y:
+#     print("x is greater than y")    
 
 else:
-    print("x is not equal to y") 
-
-# Let's explore  and so let's go to grade.py file
-       
+    print("x is equal to y") 
 
 
 

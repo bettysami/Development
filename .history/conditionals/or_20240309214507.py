@@ -39,8 +39,7 @@ if x == y:
 else:
     print("x is not equal to y") 
 
-# Let's explore  and so let's go to grade.py file
-       
+    
 
 
 

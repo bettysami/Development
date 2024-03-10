@@ -2,7 +2,7 @@ x = int(input("what's x? "))
 y = int(input("What's y? "))
 
 # let's change the values of these variables
-if x < y:
+if x < y oy x 
     print("x is less than y")
 
 elif x > y:
@@ -11,5 +11,3 @@ elif x > y:
 else:
     print("x is equal to y")
 
-
-# Let's introduce the "or" function   , go to or.py file

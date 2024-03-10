@@ -28,19 +28,5 @@ if x != y:
 else:
     print("x is equal to y")      
 
-# Another way of doing is :    
-x = int(input("what's x? "))
-y = int(input("What's y? "))
-
-# let's change the values of these variables
-if x == y:
-    print("x is equal to y")
-
-else:
-    print("x is not equal to y") 
-
-# Let's explore  and so let's go to grade.py file
-       
-
-
+# Another way of doing is :      
 
